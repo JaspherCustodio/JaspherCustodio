@@ -5,7 +5,7 @@
 <a href="your-portfolio-link">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white" height="30"/>
 </a>&nbsp;
-<a href="mailto:your-email@example.com">
+<a href="27jasphercustodio@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" height="30"/>
 </a>
 
