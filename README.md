@@ -17,7 +17,7 @@ Whether it’s automating tasks with Python, designing responsive websites, or b
 
 ---
 
-### 🔧 **Tools, Libraries, and Technologies I’ve Worked With:**  
+### 🔧 **Here are the tools, libraries, technologies, and framework I've worked with:**  
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="HTML5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS3"/>
