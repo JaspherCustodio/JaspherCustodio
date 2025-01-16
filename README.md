@@ -1,3 +1,9 @@
+# 🔥 Jaspher Custodio 
+**Aspiring Full-Stack Developer | Game Developer in Progress**  
+
+Hi! My name is Jaspher Custodio, and I’m passionate about combining creativity and technology to craft unique solutions. I specialize in learning front-end development (HTML, CSS, JavaScript, React) while continuing to explore Python and game development using Godot Engine. My goal is to create engaging experiences and contribute to innovative projects that make an impact.  
+
+Whether it's automating tasks with Python, designing responsive websites, or building indie games, I’m always eager to learn and improve. Check out my repositories for projects that showcase my journey as a developer. Feel free to connect or collaborate with me!  
 
 <a href="https://www.linkedin.com/in/jaspher-custodio-9b1915199/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30"/>
