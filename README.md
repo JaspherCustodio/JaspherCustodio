@@ -1,5 +1,5 @@
 
-<a href="your-linkedin-link">
+<a href="https://www.linkedin.com/in/jaspher-custodio-9b1915199/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30"/>
 </a>&nbsp;
 <a href="your-portfolio-link">
