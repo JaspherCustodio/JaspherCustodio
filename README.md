@@ -5,7 +5,7 @@ Hi! My name is Jaspher Custodio, and I’m passionate about combining creativity
 
 Whether it’s automating tasks with Python, designing responsive websites, or building indie games, I’m always eager to learn and improve. Check out my repositories for projects that showcase my journey as a developer. I’d love to connect or collaborate on exciting projects!  
 
-<a href="https://www.linkedin.com/in/jaspher-custodio-9b1915199/">
+<a href=https://www.linkedin.com/in/jaspher-custodio/>
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="your-portfolio-link">
