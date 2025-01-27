@@ -13,6 +13,9 @@ Whether it’s automating tasks with Python, designing responsive websites, or b
 </a>&nbsp;
 <a href="mailto:27jasphercustodio@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" height="30" alt="Email"/>
+</a>&nbsp;
+<a href="https://jasphercustodio.github.io/website-resume/">
+    <img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=Adobe-Acrobat-Reader&logoColor=white" height="30" alt="Resume"/>
 </a>
 
 ---
