@@ -1,37 +1,11 @@
-# 🔥 Jaspher Custodio 
-**Aspiring Full-Stack Developer | Game Developer in Progress**  
+🔥 Jaspher Custodio
 
-Hi! My name is Jaspher Custodio, and I’m passionate about combining creativity and technology to craft unique solutions. I am currently specializing in front-end development (HTML, CSS, JavaScript, React) while continuing to explore Python and game development using Godot Engine. My goal is to create engaging experiences and contribute to innovative projects that make an impact.  
+Aspiring Full-Stack Developer | Mobile & Web Developer | Game Developer in Progress
 
-Whether it’s automating tasks with Python, designing responsive websites, or building indie games, I’m always eager to learn and improve. Check out my repositories for projects that showcase my journey as a developer. I’d love to connect or collaborate on exciting projects!  
+Hi! I’m Jaspher Custodio, passionate about combining creativity and technology to build impactful solutions. I specialize in front-end and full-stack development for web and mobile, while exploring AI integration and game development using Godot Engine.
 
-<a href=https://www.linkedin.com/in/jaspher-custodio/>
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="your-portfolio-link">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white" height="30" alt="Portfolio"/>
-</a>&nbsp;
-<a href="mailto:27jasphercustodio@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" height="30" alt="Email"/>
-</a>&nbsp;
-<a href="https://jasphercustodio.github.io/website-resume/">
-    <img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=Adobe-Acrobat-Reader&logoColor=white" height="30" alt="Resume"/>
-</a>
+I enjoy turning ideas into functional projects—from responsive websites and mobile apps to AI-powered tools. My goal is to create engaging experiences and contribute to innovative projects. Check out my repositories to see my journey, and let’s connect or collaborate!
 
----
-
-### 🔧 **Here are the tools, libraries, technologies, and framework I've worked with:**  
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" alt="Godot Engine"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
-</div>
-
+<a href="https://www.linkedin.com/in/jaspher-custodio/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30" alt="LinkedIn"/> </a>&nbsp; <a href="your-portfolio-link"> <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google-Chrome&logoColor=white" height="30" alt="Portfolio"/> </a>&nbsp; <a href="mailto:27jasphercustodio@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" height="30" alt="Email"/> </a>&nbsp; <a href="https://jasphercustodio.github.io/website-resume/"> <img src="https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=Adobe-Acrobat-Reader&logoColor=white" height="30" alt="Resume"/> </a>
+🔧 Technologies, Frameworks, and Tools I’ve Worked With
+<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" width="40" height="40" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain.svg" width="40" height="40" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="Illustrator"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/> </div>
