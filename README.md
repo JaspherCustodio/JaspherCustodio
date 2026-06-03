@@ -1,4 +1,8 @@
-🔥 Jaspher Custodio
+# Hi there, I'm Jaspher Custodio
+
+<div align="center">
+  <img width="100%" src="https://github.com/JaspherCustodio/JaspherCustodio/blob/main/1.png" alt="cover" />
+</div>
 
 Aspiring Full-Stack Developer | Mobile & Web Developer | Game Developer in Progress
 
