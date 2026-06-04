@@ -17,7 +17,7 @@ I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Develope
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://facebook.com/yourusername">
+  <a href="https://www.facebook.com/jaspher.de.villena.custodio.2024/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
