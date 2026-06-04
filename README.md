@@ -29,7 +29,7 @@ I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Develope
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://jasphercustodio.github.io/website-resume/">
+  <a href="https://jasphercustodio.github.io/Resume/">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 
