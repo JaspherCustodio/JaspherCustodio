@@ -8,7 +8,7 @@
 I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Developer with experience in web and mobile app development. I enjoy building responsive applications and exploring AI integration. My preferred stack includes PHP and modern web technologies, and I am always eager to learn new things.
 
 <details>
-  <summary>📬 Connect With Me</summary>
+  <summary>Connect With Me 📬 </summary>
   <br>
 
   <a href="https://www.linkedin.com/in/jaspher-custodio/">
