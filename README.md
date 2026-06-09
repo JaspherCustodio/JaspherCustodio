@@ -5,7 +5,7 @@
 </div>
 
 ## About me
-I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Developer with experience in web and mobile app development. I enjoy building responsive applications and exploring AI integration. My preferred stack includes PHP and modern web technologies, and I am always eager to learn new things.
+Hi, I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Developer with experience in website and mobile application development. I enjoy building responsive and user-friendly websites and applications while exploring AI integration. My preferred stack includes PHP and modern web technologies, and I am always eager to learn new skills and improve as a developer.
 
 <details>
 <summary><b>📬 Connect With Me</b></summary>
