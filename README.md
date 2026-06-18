@@ -26,7 +26,7 @@ Hi, I am Jaspher Custodio from the Philippines. I am an aspiring Full-Stack Deve
   </a>
 
   <a href="https://jaspher-custodio-portfolio.nfy.fyi/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
   <a href="https://jasphercustodio.github.io/Resume/">
